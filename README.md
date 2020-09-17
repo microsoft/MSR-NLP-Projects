@@ -12,6 +12,7 @@ This is a list of open-sourced projects [Microsoft Research NLP Group](https://w
 | 2019 | [Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling](https://www.aclweb.org/anthology/P19-3021.pdf) | [code](https://github.com/microsoft/icecaps) | ACL 2019 | `dialog` `generation` `framework` |
 | 2019 | [Structuring Latent Spaces for Stylized Response Generation](https://arxiv.org/abs/1909.05361) | [code/data](https://github.com/golsun/StyleFusion) | EMNLP 2019 | `style` `dialog` `generation` |
 | 2019 | [Jointly Optimizing Diversity and Relevance in Neural Response Generation](https://arxiv.org/abs/1902.11205) | [code/data](https://github.com/golsun/SpaceFusion) | NAACL 2019 | `dialog` `generation` |
+| 2019 | [Towards Content Transfer through Grounded Text Generation](https://arxiv.org/abs/1905.05293) | [code/data](https://github.com/shrimai/Towards-Content-Transfer-through-Grounded-Text-Generation) | NAACL 2019 | `generation` `knowledge`|
 
 # Contributing
 
