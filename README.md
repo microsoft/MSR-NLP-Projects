@@ -1,3 +1,12 @@
+# Microsoft Research NLP Projects
+
+This is a list of open-sourced projects [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing) involved.
+
+| Year | Paper    | Links | Notes | Tags |
+|:-----------: | :------------- | :-----------: | :-----------: |:-----------: |
+| 2020 | [Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978) | [code/model/data](https://github.com/golsun/DialogRPT) [demo](https://colab.research.google.com/drive/1jQXzTYsgdZIQjJKrX4g3CP0_PGCeVU3C?usp=sharing) | EMNLP 2020 | `dialog` `ranking`|
+| 2020 | [POINTER: Constrained Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) | [code](https://github.com/dreasysnail/POINTER) [demo](http://52.247.25.3:8900/) | EMNLP 2020 | `generation` |
+| 2019 | [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | [code/model/data](https://github.com/microsoft/DialoGPT) | ACL 2019 | `dialog` `generation`|
 
 # Contributing
 
