@@ -6,7 +6,12 @@ This is a list of open-sourced projects [Microsoft Research NLP Group](https://w
 |:-----------: | :------------- | :-----------: | :-----------: |:-----------: |
 | 2020 | [Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978) | [code/model/data](https://github.com/golsun/DialogRPT) [demo](https://colab.research.google.com/drive/1jQXzTYsgdZIQjJKrX4g3CP0_PGCeVU3C?usp=sharing) | EMNLP 2020 | `dialog` `ranking`|
 | 2020 | [POINTER: Constrained Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) | [code](https://github.com/dreasysnail/POINTER) [demo](http://52.247.25.3:8900/) | EMNLP 2020 | `generation` |
-| 2019 | [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | [code/model/data](https://github.com/microsoft/DialoGPT) | ACL 2019 | `dialog` `generation`|
+| 2019 | [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | [code/model/data](https://github.com/microsoft/DialoGPT) | ACL 2020 | `dialog` `generation`|
+| 2019 | [MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform](https://arxiv.org/abs/2005.08365) | [code](https://github.com/microsoft/MixingBoard) | ACL 2020 | `dialog` `generation` `framework` `knowledge` `style` |
+| 2019 | [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://www.aclweb.org/anthology/P19-1539/) | [code/model/data](https://github.com/qkaren/converse_reading_cmr) | ACL 2019 | `knowledge` `dialog` `generation`  |
+| 2019 | [Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling](https://www.aclweb.org/anthology/P19-3021.pdf) | [code](https://github.com/microsoft/icecaps) | ACL 2019 | `dialog` `generation` `framework` |
+| 2019 | [Structuring Latent Spaces for Stylized Response Generation](https://arxiv.org/abs/1909.05361) | [code/data](https://github.com/golsun/StyleFusion) | EMNLP 2019 | `style` `dialog` `generation` |
+| 2019 | [Jointly Optimizing Diversity and Relevance in Neural Response Generation](https://arxiv.org/abs/1902.11205) | [code/data](https://github.com/golsun/SpaceFusion) | NAACL 2019 | `dialog` `generation` |
 
 # Contributing
 
