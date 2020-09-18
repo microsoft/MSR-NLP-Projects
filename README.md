@@ -1,6 +1,6 @@
 # Microsoft Research NLP Projects
 
-This is a list of open-sourced projects [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing) involved.
+This is a list of open-sourced projects [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing) involved. (ranked in time order)
 
 | Year | Paper    | Links | Notes | Tags |
 |:-----------: | :------------- | :-----------: | :-----------: |:-----------: |
