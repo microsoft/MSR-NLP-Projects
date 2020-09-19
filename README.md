@@ -2,21 +2,21 @@
 
 This is a list of open-sourced projects [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing) involved. (ranked in time order)
 
-| Year | Paper    | Links | Notes | Tags |
-|:-----------: | :------------- | :-----------: | :-----------: |:-----------: |
-| 2020 | [Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978) | [code/model/data](https://github.com/golsun/DialogRPT), [demo](https://colab.research.google.com/drive/1jQXzTYsgdZIQjJKrX4g3CP0_PGCeVU3C?usp=sharing) | EMNLP 2020 | `dialog` `ranking`|
-| 2020 | [POINTER: Constrained Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) | [code](https://github.com/dreasysnail/POINTER), [demo](http://52.247.25.3:8900/) | EMNLP 2020 | `generation` |
-| 2020 | [Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space](https://arxiv.org/abs/2004.04092) | [code](https://github.com/ChunyuanLI/Optimus), [demo](http://40.71.23.172:8899/) | EMNLP 2020 | `generation` |
-| 2020 | [RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers](https://arxiv.org/abs/1911.04942) | [code](https://github.com/microsoft/rat-sql) | ACL 2020 | `parsing`, `sql`|
-| 2020 | [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://arxiv.org/pdf/2005.09606.pdf) | [code](https://github.com/microsoft/multimodal-aligned-recipe-corpus) | ACL 2020 | `multimodal` |
-| 2019 | [Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention](https://arxiv.org/abs/1812.04155)| [code/data](https://github.com/debadeepta/vnla) | CVPR 2019 | `navigation` `imitation learning` |
-| 2019 | [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | [code/model/data](https://github.com/microsoft/DialoGPT) | ACL 2020 | `dialog` `generation`|
-| 2019 | [MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform](https://arxiv.org/abs/2005.08365) | [code](https://github.com/microsoft/MixingBoard) | ACL 2020 | `dialog` `generation` `framework` `knowledge` `style` |
-| 2019 | [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://www.aclweb.org/anthology/P19-1539/) | [code/model/data](https://github.com/qkaren/converse_reading_cmr) | ACL 2019 | `knowledge` `dialog` `generation`  |
-| 2019 | [Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling](https://www.aclweb.org/anthology/P19-3021.pdf) | [code](https://github.com/microsoft/icecaps) | ACL 2019 | `dialog` `generation` `framework` |
-| 2019 | [Structuring Latent Spaces for Stylized Response Generation](https://arxiv.org/abs/1909.05361) | [code/data](https://github.com/golsun/StyleFusion) | EMNLP 2019 | `style` `dialog` `generation` |
-| 2019 | [Jointly Optimizing Diversity and Relevance in Neural Response Generation](https://arxiv.org/abs/1902.11205) | [code/data](https://github.com/golsun/SpaceFusion) | NAACL 2019 | `dialog` `generation` |
-| 2019 | [Towards Content Transfer through Grounded Text Generation](https://arxiv.org/abs/1905.05293) | [code/data](https://github.com/shrimai/Towards-Content-Transfer-through-Grounded-Text-Generation) | NAACL 2019 | `generation` `knowledge`|
+| Paper    | Links | Notes | Tags |
+| :------------- | :-----------: | :-----------: |:-----------: |
+| [Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978) | [code/model/data](https://github.com/golsun/DialogRPT), [demo](https://colab.research.google.com/drive/1jQXzTYsgdZIQjJKrX4g3CP0_PGCeVU3C?usp=sharing) | EMNLP 2020 | `dialog` `ranking`|
+| [POINTER: Constrained Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) | [code](https://github.com/dreasysnail/POINTER), [demo](http://52.247.25.3:8900/) | EMNLP 2020 | `generation` |
+| [Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space](https://arxiv.org/abs/2004.04092) | [code](https://github.com/ChunyuanLI/Optimus), [demo](http://40.71.23.172:8899/) | EMNLP 2020 | `generation` |
+| [RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers](https://arxiv.org/abs/1911.04942) | [code](https://github.com/microsoft/rat-sql) | ACL 2020 | `parsing`, `sql`|
+| [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://arxiv.org/pdf/2005.09606.pdf) | [code](https://github.com/microsoft/multimodal-aligned-recipe-corpus) | ACL 2020 | `multimodal` |
+| [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | [code/model/data](https://github.com/microsoft/DialoGPT) | ACL 2020 | `dialog` `generation`|
+| [MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform](https://arxiv.org/abs/2005.08365) | [code](https://github.com/microsoft/MixingBoard) | ACL 2020 | `dialog` `generation` `framework` `knowledge` `style` |
+| [Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention](https://arxiv.org/abs/1812.04155)| [code/data](https://github.com/debadeepta/vnla) | CVPR 2019 | `navigation` `imitation learning` |
+| [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://www.aclweb.org/anthology/P19-1539/) | [code/model/data](https://github.com/qkaren/converse_reading_cmr) | ACL 2019 | `knowledge` `dialog` `generation`  |
+| [Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling](https://www.aclweb.org/anthology/P19-3021.pdf) | [code](https://github.com/microsoft/icecaps) | ACL 2019 | `dialog` `generation` `framework` |
+| [Structuring Latent Spaces for Stylized Response Generation](https://arxiv.org/abs/1909.05361) | [code/data](https://github.com/golsun/StyleFusion) | EMNLP 2019 | `style` `dialog` `generation` |
+| [Jointly Optimizing Diversity and Relevance in Neural Response Generation](https://arxiv.org/abs/1902.11205) | [code/data](https://github.com/golsun/SpaceFusion) | NAACL 2019 | `dialog` `generation` |
+| [Towards Content Transfer through Grounded Text Generation](https://arxiv.org/abs/1905.05293) | [code/data](https://github.com/shrimai/Towards-Content-Transfer-through-Grounded-Text-Generation) | NAACL 2019 | `generation` `knowledge`|
 
 # Contributing
 
