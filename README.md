@@ -2,7 +2,15 @@
 
 This is a list of open-sourced projects [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing) involved. (ranked in time order)
 
-| Paper    | Links | Notes | Tags |
+## Datasets
+| Title    | Description | Related projects | 
+| :------------- | :----------- | :----------- | 
+| [Dialogue Feedback Dataset](https://dialogfeedback.github.io/) | 100+ Millions of dialogues with corresponding human feedback to learn which one gets better feedback | [DialogRPT](https://arxiv.org/abs/2009.06978) |
+| [Grounded Dialogue Dataset](https://dialogfeedback.github.io/) | Dialogues with information grounded in external knowledge, e.g. wikipedia pages | [DSTC7](https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling), [CMR](https://github.com/qkaren/converse_reading_cmr) |
+| [Reddit Dialogue Dataset](https://github.com/microsoft/DialoGPT) | 147M conversation-like exchanges extracted from Reddit comment chains over a period spanning from 2005 through 2017 | [DialoGPT](https://github.com/microsoft/DialoGPT) |
+
+## Papers
+| Title    | Links | Notes | Tags |
 | :------------- | :-----------: | :-----------: |:-----------: |
 | [Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978) | [code/model/data](https://github.com/golsun/DialogRPT), [demo](https://colab.research.google.com/drive/1jQXzTYsgdZIQjJKrX4g3CP0_PGCeVU3C?usp=sharing) | EMNLP 2020 | `dialog` `ranking`|
 | [POINTER: Constrained Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) | [code](https://github.com/dreasysnail/POINTER), [demo](http://52.247.25.3:8900/) | EMNLP 2020 | `generation` |
