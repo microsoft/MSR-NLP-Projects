@@ -5,7 +5,7 @@ This is a list of open-sourced projects [Microsoft Research NLP Group](https://w
 ## Datasets
 | Title    | Description | Related projects | 
 | :------------- | :----------- | :----------- | 
-| [Dialogue Feedback Dataset](https://dialogfeedback.github.io/) | 100+ Millions of dialogues with corresponding human feedback to learn which one gets better feedback | [DialogRPT](https://github.com/golsun/DialogRPT) |
+| [Dialogue Feedback Dataset](https://github.com/golsun/DialogRPT) | 100+ Millions of dialogues with corresponding human feedback to learn which one gets better feedback | [DialogRPT](https://github.com/golsun/DialogRPT) |
 | [Grounded Dialogue Dataset](https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling) | Dialogues with information grounded in external knowledge, e.g. wikipedia pages | [DSTC7](https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling), [CMR](https://github.com/qkaren/converse_reading_cmr) |
 | [Reddit Dialogue Dataset](https://github.com/microsoft/DialoGPT) | 147M conversation-like exchanges extracted from Reddit comment chains over a period spanning from 2005 through 2017 | [DialoGPT](https://github.com/microsoft/DialoGPT) |
 
